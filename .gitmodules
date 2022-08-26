@@ -1,0 +1,6 @@
+[submodule "Spotifanini-JSF"]
+	path = Spotifanini-JSF
+	url = https://github.com/MateusFS99/Spotifanini-JSF
+[submodule "Spotifanini-SpringBoot"]
+	path = Spotifanini-SpringBoot
+	url = https://github.com/MateusFS99/Spotifanini-SpringBoot
