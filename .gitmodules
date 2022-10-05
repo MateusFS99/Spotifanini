@@ -4,3 +4,6 @@
 [submodule "Spotifanini-SpringBoot"]
 	path = Spotifanini-SpringBoot
 	url = https://github.com/MateusFS99/Spotifanini-SpringBoot
+[submodule "Spotifanini-Angular"]
+	path = Spotifanini-Angular
+	url = https://github.com/MateusFS99/Spotifanini-Angular
